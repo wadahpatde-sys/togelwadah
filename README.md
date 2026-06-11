@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html dir='ltr' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
 <head>
@@ -229,37 +228,8 @@ stepcarousel.setup({
 div.b-mobile {display:none;}
 </style>
 
-<link rel="me" href="https://www.blogger.com/profile/18345480761604926774" />
-<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
-<meta name='google-adsense-platform-domain' content='blogspot.com'/>
-<!-- --><style type="text/css">@import url(//www.blogger.com/static/v1/v-css/navbar/3334278262-classic.css);
-div.b-mobile {display:none;}
-</style>
-
 </head>
 <body><script type="text/javascript">
-    function setAttributeOnload(object, attribute, val) {
-      if(window.addEventListener) {
-        window.addEventListener('load',
-          function(){ object[attribute] = val; }, false);
-      } else {
-        window.attachEvent('onload', function(){ object[attribute] = val; });
-      }
-    }
-  </script>
-<div id="navbar-iframe-container"></div>
-<script type="text/javascript" src="https://apis.google.com/js/platform.js"></script>
-<script type="text/javascript">
-      gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
-        if (gapi.iframes && gapi.iframes.getContext) {
-          gapi.iframes.getContext().openChild({
-              url: 'https://www.blogger.com/navbar/4576952261797304487?origin\x3dhttps://togelwadah4d.blogspot.com',
-              where: document.getElementById("navbar-iframe-container"),
-              id: "navbar-iframe"
-          });
-        }
-      });
-    </script><script type="text/javascript">
     function setAttributeOnload(object, attribute, val) {
       if(window.addEventListener) {
         window.addEventListener('load',
@@ -777,4 +747,3 @@ head.appendChild(script);
 <div class='clear'></div>
 </div>
 </div></div>
-</body></html>
